@@ -1,0 +1,33 @@
+# April 2020
+#
+# Candidate's instructions
+#
+
+To help us evaluate the adequacy of a candidate's profile with the mission offered,
+we would be grateful if the candidate could devote a limited amount of time to complete 
+a programming exercise (we estimate 4h-5h).
+
+> Evaluation criteria :
+ 
+- R/Shiny literacy 
+- coding practices
+- creativity
+
+> Data sources:
+
+- Random_PatientLevelInfo_2020.tsv : a simulated TSV table describing individual patients
+- Random_LabValuesInfo_2020.tsv : a simulated TSV table describing 3 laboratory measurements across 5 visits, and
+ 2 biomarkers measured at baseline.
+ 
+ 
+> Expected deliverable:
+
+- a simple R Shiny application designed to explore the properties of the data sources.
+- minimum of 2 different visualization plots
+- use of a version control system to track changes (local git repository, or an online one such as github, gitlab, bitbucket)
+- the final project should be formated as a RStudio project, or as a gzip R Package.
+- maximum of 8 days before delivery
+
+
+
+
